@@ -1,6 +1,6 @@
 # Big_Data_NTUA
 Project for the 2020-2021 NTUA ECE class "Advanced Databases". 
-Τeam members: Skourtsidis Giorgos, [Fivos Kalogiannis](https://github.com/phoebkal)
+Τeam members: [Skourtsidis Giorgos](https://github.com/SkourtsidisGiorgos), [Fivos Kalogiannis](https://github.com/phoebkal)
 
 - Students had to write queries using both PySpark's interfaces: RDD and SparkSQL. 
 SQL queries had to be tested on both CSV and PARQUET files and compare differences between all the results.
